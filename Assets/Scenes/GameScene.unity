@@ -581,8 +581,8 @@ MonoBehaviour:
   mouseSensitivity: 2
   minVerticalAngle: -30
   maxVerticalAngle: 60
-  positionSmoothTime: 0.3
-  rotationSmoothTime: 0.15
+  positionSmoothTime: 0
+  rotationSmoothTime: 0
   collisionLayers:
     serializedVersion: 2
     m_Bits: 4294967295
